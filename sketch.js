@@ -103,7 +103,7 @@ function draw() {
   shipMovement();
  
   drawSprites();
-  camera.zoom = 1;
+  camera.zoom = 3;
 
   pointerPosX = mouseX
   pointerPosY = mouseY
